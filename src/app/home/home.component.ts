@@ -23,6 +23,7 @@ import { Component, OnInit } from '@angular/core';
     background-size: cover;
     background-position: center center;
   }
+
   `]
 })
 export class HomeComponent implements OnInit {
@@ -33,3 +34,4 @@ export class HomeComponent implements OnInit {
   }
 
 }
+
